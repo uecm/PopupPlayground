@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PopupContentView setupButtons]:PopupContentView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.leftButton.titleLabel.textColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PopupContentView setPopupStyle:]:PopupContentView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.rightButton.titleLabel.textColor">
+            </PersistentString>
+            <PersistentString
+               value = "self.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController showPopupPressed:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__copy_helper_block_:KLCPopup.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "parameters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__31-[KLCPopup showWithParameters:]_block_invoke:KLCPopup.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.showType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
